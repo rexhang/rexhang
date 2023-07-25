@@ -1,4 +1,10 @@
-![me](https://rexhang.github.io/images/avatar.png)
+<p align="center">
+  <img src="https://rexhang.github.io/images/avatar.png" width="144" height="144" style="margin: 0 auto;" alt="me" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/rexhang/rexhang/assets/14832793/df73eee9-b0ef-47be-9e0d-180ab8150b2e" width="100%" height="428" style="margin: 0 auto;" alt="bg" />
+</p>
 
 ## Hey 👋, I'm RexHang
 
