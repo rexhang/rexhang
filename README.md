@@ -23,8 +23,8 @@ I love programming and I love javascript.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-24adf3?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-56d96c?style=flat-square&logo=Microsoft-Edge&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/Google_Chrome-f8bd16?style=flat-square&logo=Google-Chrome&logoColor=white)
+![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-30c1e4?style=flat-square&logo=Microsoft-Edge&logoColor=white)
+![Google Chrome](https://img.shields.io/badge/Google_Chrome-cc?style=flat-square&logo=Google-Chrome&logoColor=white)
 
 ### Contact me:
 
