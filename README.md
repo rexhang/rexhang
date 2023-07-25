@@ -39,4 +39,4 @@ I love programming and I love javascript.
 ![Profile](https://github-readme-stats.vercel.app/api?username=rexhang&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rexhang&layout=compact)
 
-⭐️ From [L1cardo](https://github.com/rexhang)
+❤ From [github@rexhang](https://github.com/rexhang)
