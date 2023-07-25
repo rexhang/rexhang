@@ -26,11 +26,11 @@ I love programming and I love javascript.
 
 ### Contact me:
 
-- Personal website: [![website](https://img.shields.io/badge/https://licardo.cn-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://rexhang.com)
-- Personal blog: [![website](https://img.shields.io/badge/https://licardo.cn-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://blog.rexhang.com)
-- Twitter: [![Twitter](https://img.shields.io/badge/@AlbertAbdilim-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ghng75339) 
-- Weibo: [![Weibo](https://img.shields.io/badge/@Albert__Abdilim-E6162D?style=flat-square&logo=sina-weibo&logoColor=white)](https://weibo.com/u/5763561654)
-- Email: [![Email](https://img.shields.io/badge/albert.abdilim@foxmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rexhang@outlook.com)
+- Personal website: [![website](https://img.shields.io/badge/https://rexhang.com-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://rexhang.com)
+- Personal blog: [![website](https://img.shields.io/badge/https://blog.rexhang.com-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://blog.rexhang.com)
+- Twitter: [![Twitter](https://img.shields.io/badge/@ghng75339-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ghng75339) 
+- Weibo: [![Weibo](https://img.shields.io/badge/@Web_RexHang-E6162D?style=flat-square&logo=sina-weibo&logoColor=white)](https://weibo.com/u/5763561654)
+- Email: [![Email](https://img.shields.io/badge/rexhang@outlook.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rexhang@outlook.com)
 
 ### My GitHub Stats
 
