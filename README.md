@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/14832793/262211671-f52ff4eb-59bd-43bc-84ae-76f1f0953dd5.png" width="100%" height="428" style="margin: 0 auto;" alt="bg" />
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/14832793/262211671-f52ff4eb-59bd-43bc-84ae-76f1f0953dd5.png" width="100%" height="auto" style="margin: 0 auto;height: max-content;" alt="bg" />
 </p>
 
 ## Hey 👋, I'm RexHang
